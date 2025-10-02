@@ -61,10 +61,10 @@ const CoordinatorSelector = ({ coordinators, onSelect }) => {
               </div>
             </div>
             <h1 className="text-5xl font-bold mb-4 bg-gradient-to-r from-white to-cyan-200 bg-clip-text text-transparent">
-              DerivCo Nexus Portal
+              Reception Portal
             </h1>
             <p className="text-xl text-blue-100/80 mb-2">Intelligent Front Desk & Helpdesk Platform</p>
-            <p className="text-blue-200/60">Durban Headquarters • AI-Powered Operations</p>
+            <p className="text-blue-200/60">Born In Durban • Powered by iKhaya AI</p>
           </div>
         </div>
       </header>
